@@ -1,0 +1,38 @@
+_repo: King-Matthias-and-the-Beggar-Boy_36816
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Gaye, Selina
+    gutenberg_agent_id: '38141'
+    url: http://www.gutenberg.org/2009/agents/38141
+covers:
+- cover_type: archival
+  image_path: 36816-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Jósika, Miklós, báró
+    aliases:
+    - Josika, Miklos, baro
+    - Jósika, Nicolas, báró
+    - Jósika, Nikolas, Baron
+    - Jósika, Nikolaus, báró
+    deathdate: 1865
+    gutenberg_agent_id: '38140'
+    url: http://www.gutenberg.org/2009/agents/38140
+    wikipedia: http://hu.wikipedia.org/wiki/J%C3%B3sika_Mikl%C3%B3s
+description: 'Translation of: Király és Koldus'
+gutenberg_issued: '2011-07-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36816'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Beggars -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Historical fiction'
+- !lcsh 'Hungary -- History -- Matthias, 1458-1490 -- Juvenile fiction'
+title: King Matthias and the Beggar Boy
+url: http://www.gutenberg.org/ebooks/36816
