@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/38140
     wikipedia: http://hu.wikipedia.org/wiki/J%C3%B3sika_Mikl%C3%B3s
 description: 'Translation of: Király és Koldus'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36816#King-Matthias-and-the-Beggar-Boy
 gutenberg_issued: '2011-07-23'
 gutenberg_type: Text
 identifiers:
